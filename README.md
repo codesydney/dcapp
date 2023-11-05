@@ -10,7 +10,7 @@ This document is a proposal to initiate an engagement with the charity organisat
 ## Terms
 
 - No legal obligation from all parties involved
-- No hard deadlines due to time availability and varying skill levels of volunteer programmers.
+- No hard deadlines due to time availability and varying skill levels of volunteer programmers
 - Project brief can be published in all Code.Sydney social media pages and other related communications just for marketing purposes
 - Provision of volunteer employment reference for the volunteers
 - Provision of pay-as-you-feel payment for the volunteers
