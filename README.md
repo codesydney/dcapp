@@ -20,7 +20,8 @@ Anything outside of the above terms can be found in ‘Code.Sydney Client Terms 
 
 ---
 ## Problem to solve
-●	Prevention of Domestic Violence (DV)
+-	Prevention of Domestic Violence (DV)
+-	Support of victims of Domestic Violence (DV)
 
 ---
 ## Customer Need
