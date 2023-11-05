@@ -35,7 +35,7 @@ Anything outside of the above terms can be found in [Code.Sydney Client Terms 20
 ---
 ## Tech
 ![image](https://github.com/codesydney/dcapp/assets/7553347/d903e978-c3f4-45b6-abca-ab2df971d04c)
-- Flask
+- Flask/Python
 - SQLIte
 - HTML/CSS/JS/Bootstrap
 - PythonAnywhere
