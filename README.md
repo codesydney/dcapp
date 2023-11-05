@@ -25,3 +25,7 @@ Anything outside of the above terms can be found in ‘Code.Sydney Client Terms 
 ---
 ## Customer Need
 ●	Develop a web app to capture daily journals (via text/image/video/audio) of the user in aid of building a knowledgebase of DV cases in aid of possible intervention of Deadly Connections.
+
+---
+## High Level Diagram
+![image](https://github.com/codesydney/dcapp/assets/7553347/914439e8-7b00-4a76-8ae0-6156a28b12d9)
