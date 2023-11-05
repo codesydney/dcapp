@@ -31,3 +31,11 @@ Anything outside of the above terms can be found in [Code.Sydney Client Terms 20
 ---
 ## High Level Diagram
 ![image](https://github.com/codesydney/dcapp/assets/7553347/bf589da3-50e6-40c6-b162-8faf3fa0a101)
+
+---
+## Tech
+![image](https://github.com/codesydney/dcapp/assets/7553347/d903e978-c3f4-45b6-abca-ab2df971d04c)
+- Flask
+- SQLIte
+- HTML/CSS/JS/Bootstrap
+- PythonAnywhere
