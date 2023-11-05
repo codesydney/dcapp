@@ -16,7 +16,8 @@ This document is a proposal to initiate an engagement with the charity organisat
 - Provision of pay-as-you-feel payment for the volunteers
 - Peripheral expenses like domain registration and hosting will be shouldered by the charity organization
 
-Anything outside of the above terms can be found in ‘Code.Sydney Client Terms 2023.pdf’. 
+Anything outside of the above terms can be found in [Code.Sydney Client Terms 2023.pdf](https://github.com/codesydney/dcapp/files/13259280/Code.Sydney.Client.Terms.2023.pdf)
+
 
 ---
 ## Problem to solve
